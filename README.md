@@ -5,7 +5,7 @@ I am a student completing the Google Cybersecurity Professional Certificate on C
 This portfolio demonstrates my hands-on cybersecurity learning through audits, labs, notes, and tools.  
 My goal is to build strong foundational cybersecurity skills and prepare for future certifications such as CompTIA Security+.
 
-## Featured Project: Botium Toys Internal Security Audit
+## Featured Project: Botium Toys Internal Security Audit 
 - Conducted a checklist-based internal security audit of a fictional company, Botium Toys.  
 - Evaluated security controls, policies, and compliance practices.  
 - Documented findings, risks, and recommendations to improve security posture.  
