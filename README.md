@@ -1,6 +1,6 @@
 # Google Cybersecurity Portfolio
 
-## About Me
+## About Me 
 I am a High School student currently completing the Google Cybersecurity Professional Certificate on Coursera. This repository documents my hands-on cybersecurity learning, including security audits, labs, notes, and tools.
 
 My goal is to build strong foundational cybersecurity skills and prepare for future certifications such as CompTIA Security+ while continuing to expand real-world technical experience.
